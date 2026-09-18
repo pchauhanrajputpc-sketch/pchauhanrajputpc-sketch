@@ -4,7 +4,7 @@
 [![Experience](https://img.shields.io/badge/Experience-9%2B%20Years%20Quant%20Desk-193B56.svg)](#)
 [![Primary Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Polars%20%7C%20NumPy%20%7C%20SciPy-F59E0B.svg)](#)
 [![Exchange Coverage](https://img.shields.io/badge/Markets-NSE%20%7C%20BSE%20Index%20%26%20Equities-10B981.svg)](#)
-[![ATS CV](https://img.shields.io/badge/Curriculum%20Vitae-ATS%20Verified%20(1--Page)-EF4444.svg)](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/tree/main/docs/PC_CV)
+[![ATS CV](https://img.shields.io/badge/Curriculum%20Vitae-ATS%20Verified%20(1--Page)-EF4444.svg)](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/tree/main/docs/PC_CV)
 
 ---
 
@@ -25,11 +25,11 @@ Below are self-contained, reproducible quantitative research repositories demons
 
 | # | Research Showcase | Quantitative Methodology | Institutional Alignment | Source Code |
 |---|---|---|---|---|
-| **01** | **[Point-in-Time Backtesting Engine](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/tree/main/research_showcases/point_in_time_backtester)** | Chronological event simulation, 0.50% turnover friction pre-deducted, exchange margin models (₹2.5L/₹1.8L/₹1.0L), 11-column canonical trade ledgers. | Rule L1–L22 Invariant Gate & WFO Validation | [Engine & Tests](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/tree/main/research_showcases/point_in_time_backtester) |
-| **02** | **[Options Volatility Surface & Greeks](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/tree/main/research_showcases/options_volatility_surface)** | Black-Scholes inversion (Newton-Raphson/Brent), cubic spline & SVI surface fitting, arbitrage-free total variance constraints, dealer Gamma Exposure (GEX). | Real-time volatility skew & Greeks risk | [Engine & Tests](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/tree/main/research_showcases/options_volatility_surface) |
-| **03** | **[Bank Nifty Basket Cointegration](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/tree/main/research_showcases/banknifty_cointegration)** | Johansen rank cointegration test, dynamic rolling OLS hedge ratios, Ornstein-Uhlenbeck half-life estimation, mean-reverting spread Z-scores. | Statistical arbitrage across banking heavyweights | [Engine & Tests](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/tree/main/research_showcases/banknifty_cointegration) |
-| **04** | **[Market Regime & Volatility Gating](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/tree/main/research_showcases/regime_allocation)** | Unsupervised K-Means clustering on Parkinson RV, IV/RV ratios, and return skewness. Counterfactual proof of reducing simulated portfolio max DD by 28%. | Dynamic gamma scaling & risk governance | [Engine & Tests](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/tree/main/research_showcases/regime_allocation) |
-| **05** | **[Microstructure & Execution Simulator](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/tree/main/research_showcases/execution_simulator)** | Order book queue priority, limit vs. market order fill probability, square-root market impact, and empirical proof of 1.8 bps market-crossing savings. | High-throughput async IPC & execution cost control | [Engine & Tests](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/tree/main/research_showcases/execution_simulator) |
+| **01** | **[Point-in-Time Backtesting Engine](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/tree/main/research_showcases/point_in_time_backtester)** | Chronological event simulation, 0.50% turnover friction pre-deducted, exchange margin models (₹2.5L/₹1.8L/₹1.0L), 11-column canonical trade ledgers. | Rule L1–L22 Invariant Gate & WFO Validation | [Engine & Tests](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/tree/main/research_showcases/point_in_time_backtester) |
+| **02** | **[Options Volatility Surface & Greeks](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/tree/main/research_showcases/options_volatility_surface)** | Black-Scholes inversion (Newton-Raphson/Brent), cubic spline & SVI surface fitting, arbitrage-free total variance constraints, dealer Gamma Exposure (GEX). | Real-time volatility skew & Greeks risk | [Engine & Tests](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/tree/main/research_showcases/options_volatility_surface) |
+| **03** | **[Bank Nifty Basket Cointegration](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/tree/main/research_showcases/banknifty_cointegration)** | Johansen rank cointegration test, dynamic rolling OLS hedge ratios, Ornstein-Uhlenbeck half-life estimation, mean-reverting spread Z-scores. | Statistical arbitrage across banking heavyweights | [Engine & Tests](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/tree/main/research_showcases/banknifty_cointegration) |
+| **04** | **[Market Regime & Volatility Gating](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/tree/main/research_showcases/regime_allocation)** | Unsupervised K-Means clustering on Parkinson RV, IV/RV ratios, and return skewness. Counterfactual proof of reducing simulated portfolio max DD by 28%. | Dynamic gamma scaling & risk governance | [Engine & Tests](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/tree/main/research_showcases/regime_allocation) |
+| **05** | **[Microstructure & Execution Simulator](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/tree/main/research_showcases/execution_simulator)** | Order book queue priority, limit vs. market order fill probability, square-root market impact, and empirical proof of 1.8 bps market-crossing savings. | High-throughput async IPC & execution cost control | [Engine & Tests](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/tree/main/research_showcases/execution_simulator) |
 
 ---
 
@@ -59,10 +59,10 @@ All research published in this portfolio strictly adheres to institutional risk 
 
 ## 📄 Official Documents & Verification
 
-- 📄 **1-Page ATS Master CV (PDF)**: [`Prince Chauhan Quants Researcher CV - ATS Format.pdf`](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.pdf)
-- 📝 **Master Editable CV (DOCX)**: [`Prince Chauhan Quants Researcher CV - ATS Format.docx`](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.docx)
+- 📄 **1-Page ATS Master CV (PDF)**: [`Prince Chauhan Quants Researcher CV - ATS Format.pdf`](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.pdf)
+- 📝 **Master Editable CV (DOCX)**: [`Prince Chauhan Quants Researcher CV - ATS Format.docx`](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.docx)
 - 💼 **LinkedIn Profile**: [linkedin.com/in/prince-chauhan-quant](https://www.linkedin.com/)
-- 💻 **Main GitHub Repository**: [github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON](https://github.com/pchauhanrajputpc-sketch/PRINCE-PYTHON)
+- 💻 **Public Quantitative Research Portfolio**: [github.com/pchauhanrajputpc-sketch/quant-research-portfolio](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio)
 
 ---
 *Maintained by Prince Chauhan Quant Desk • New Delhi, India*
