@@ -53,11 +53,12 @@ python -m unittest discover research_showcases
 ## 🔬 Quantitative Standards & Invariants
 
 All research published in this portfolio strictly adheres to institutional risk governance:
-1. **No-Lookahead Guarantee**: 100% causal point-in-time data handling. All indicator and signal logic references strictly historical bars ($t \le T-1$).
+1. **No-Lookahead Guarantee**: 100% causal point-in-time data handling. All indicator and signal logic references strictly historical bars (t <= T-1).
 2. **Turnover Friction & Cost Reality**: Every backtest deducts a conservative 0.50% round-trip execution cost (bid-ask spread crossing, market impact, and statutory friction) before computing returns.
-3. **Dynamic Capital Allocation & Margin Constraints**: Position sizing is dynamically calibrated to clearing-house SPAN + Exposure margin models with explicit leverage caps and zero arbitrary cash haircuts ($\lfloor \text{Capital}/\text{Margin} \rfloor$).
+3. **Dynamic Capital Allocation & Margin Constraints**: Position sizing is dynamically calibrated to clearing-house SPAN + Exposure margin models with explicit leverage caps and zero arbitrary cash haircuts (floor(Capital / Margin)).
 4. **Walk-Forward Overfitting Gate**: Models undergo 70% In-Sample training, 20% Out-of-Sample verification, and 10% Blind Holdout stress testing. Maximum allowable OOS Sharpe degradation is 30%.
 5. **Sanitization**: All published code is 100% IP-sanitized for educational and technical demonstration purposes. Zero live broker credentials, active accounts, or proprietary firm data are included.
+
 
 ---
 
