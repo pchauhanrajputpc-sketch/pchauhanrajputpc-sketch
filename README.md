@@ -10,7 +10,7 @@
 [![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-Executive%20Profile%20(PDF)-0A2540.svg)](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.pdf)
 [![Research Portfolio](https://img.shields.io/badge/Code%20Repository-quant--research--portfolio-10B981.svg)](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio)
 
-> **PROPRIETARY DESK & COMPLIANCE NOTICE**:  
+> **PROPRIETARY DESK & COMPLIANCE NOTICE**:
 > *This profile provides verified institutional credentials, mathematical research frameworks, and executive portfolio deliverables. Live automated execution loops, high-frequency co-location telemetry (DhanHQ), and proprietary production capital allocations operate strictly within an air-gapped institutional private desk.*
 
 ---
