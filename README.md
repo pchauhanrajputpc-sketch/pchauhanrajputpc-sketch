@@ -7,8 +7,8 @@
 [![Experience](https://img.shields.io/badge/Experience-9%2B%20Years%20Quant%20Desk-193B56.svg)](#executive-profile)
 [![Primary Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Polars%20%7C%20NumPy%20%7C%20SciPy-F59E0B.svg)](#quantitative-stack--engineering-competencies)
 [![Exchange Coverage](https://img.shields.io/badge/Markets-NSE%20%7C%20BSE%20Derivatives%20%26%20Equities-10B981.svg)](#institutional-risk-governance--invariants)
-[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-Executive%20Profile%20(PDF)-0A2540.svg)](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.pdf)
-[![Research Portfolio](https://img.shields.io/badge/Code%20Repository-quant--research--portfolio-10B981.svg)](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio)
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-Executive%20Profile%20(PDF)-0A2540.svg)](https://github.com/prince-chauhan-pc/quant-research-portfolio/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.pdf)
+[![Research Portfolio](https://img.shields.io/badge/Code%20Repository-quant--research--portfolio-10B981.svg)](https://github.com/prince-chauhan-pc/quant-research-portfolio)
 
 > **PROPRIETARY DESK & COMPLIANCE NOTICE**:
 > *This profile provides verified institutional credentials, mathematical research frameworks, and executive portfolio deliverables. Live automated execution loops, high-frequency co-location telemetry (DhanHQ), and proprietary production capital allocations operate strictly within an air-gapped institutional private desk.*
@@ -31,9 +31,9 @@ Senior Quantitative Analyst and Systematic Derivatives Strategist with **9+ year
 
 | Repository / Deliverable | Category | Description | Direct Access |
 |---|---|---|---|
-| 🔬 **[quant-research-portfolio](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio)** | **Public Research Library** | 7 reproducible quantitative research showcases with 29 unit tests, Black-Scholes/SVI vol modeling, Johansen cointegration, and point-in-time backtesting. | [Explore Codebase](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio) |
-| 📄 **[Curriculum Vitae (ATS PDF)](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.pdf)** | **Executive CV** | One-page verified quant researcher CV with full career timeline, audited Sharpe ratios, and educational background. | [Download PDF](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.pdf) |
-| 📊 **Institutional Tear Sheets** | **Audited Track Record** | 3-page executive performance tear sheets and VIX regime reports with native Indian Rupee (₹) typography and 5-year horizons. | [View Deliverables](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio#systematic-research-architectures--empirical-benchmarks) |
+| 🔬 **[quant-research-portfolio](https://github.com/prince-chauhan-pc/quant-research-portfolio)** | **Public Research Library** | 7 reproducible quantitative research showcases with 29 unit tests, Black-Scholes/SVI vol modeling, Johansen cointegration, and point-in-time backtesting. | [Explore Codebase](https://github.com/prince-chauhan-pc/quant-research-portfolio) |
+| 📄 **[Curriculum Vitae (ATS PDF)](https://github.com/prince-chauhan-pc/quant-research-portfolio/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.pdf)** | **Executive CV** | One-page verified quant researcher CV with full career timeline, audited Sharpe ratios, and educational background. | [Download PDF](https://github.com/prince-chauhan-pc/quant-research-portfolio/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.pdf) |
+| 📊 **Institutional Tear Sheets** | **Audited Track Record** | 3-page executive performance tear sheets and VIX regime reports with native Indian Rupee (₹) typography and 5-year horizons. | [View Deliverables](https://github.com/prince-chauhan-pc/quant-research-portfolio#systematic-research-architectures--empirical-benchmarks) |
 
 ---
 
@@ -73,8 +73,8 @@ All quantitative models designed and deployed across this desk enforce non-negot
 
 ## Executive Verification & Contact
 
-- **Curriculum Vitae (PDF)**: [`Prince Chauhan Quantitative Researcher CV.pdf`](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.pdf)
-- **Public Code Repository**: [github.com/pchauhanrajputpc-sketch/quant-research-portfolio](https://github.com/pchauhanrajputpc-sketch/quant-research-portfolio)
+- **Curriculum Vitae (PDF)**: [`Prince Chauhan Quantitative Researcher CV.pdf`](https://github.com/prince-chauhan-pc/quant-research-portfolio/blob/main/docs/PC_CV/Prince%20Chauhan%20Quants%20Researcher%20CV%20-%20ATS%20Format.pdf)
+- **Public Code Repository**: [github.com/prince-chauhan-pc/quant-research-portfolio](https://github.com/prince-chauhan-pc/quant-research-portfolio)
 - **Direct Email**: [pchauhanrajput.pc@gmail.com](mailto:pchauhanrajput.pc@gmail.com)
 - **LinkedIn**: [linkedin.com/in/prince-chauhan-quant](https://www.linkedin.com/in/prince-chauhan-quant/)
 
